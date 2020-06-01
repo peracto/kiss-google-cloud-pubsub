@@ -1,0 +1,11 @@
+{
+  "name": "kiss-google-cloud-pubsub",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Peracto <garyranson@hotmail.com>",
+  "license": "ISC"
+}
